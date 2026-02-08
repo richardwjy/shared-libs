@@ -1,0 +1,5 @@
+main.go
+config.yaml
+go.mod
+go.sum
+*.exe
